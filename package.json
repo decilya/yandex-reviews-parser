@@ -1,0 +1,18 @@
+{
+    "name": "yandex-reviews-parser",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "vue": "^3.4",
+        "axios": "^1.6"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.0",
+        "vite": "^5.0",
+        "laravel-vite-plugin": "^1.0"
+    }
+}
